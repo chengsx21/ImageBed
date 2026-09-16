@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="715" viewBox="0 180 1600 715"><title>MOPD：多教师在线蒸馏</title>
+<rect x="0" y="0" width="1600" height="1000" rx="0" fill="#F7F9FA" stroke="none" stroke-width="1.4"/>
+<text x="64" y="219" fill="#152B3C" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">Teacher Zoo · 各自独立 pipeline</text>
+<rect x="64" y="247" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="247" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="88" y="289" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">游戏规则</text>
+<text x="88" y="327" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">GRM + RL</text>
+<rect x="458" y="247" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="458" y="247" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="482" y="289" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">共情陪伴</text>
+<text x="482" y="327" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">Rubric RL / OPD</text>
+<rect x="64" y="407" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="407" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="88" y="449" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">防幻觉</text>
+<text x="88" y="487" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">DPO + RL</text>
+<rect x="458" y="407" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="458" y="407" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="482" y="449" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">安全对齐</text>
+<text x="482" y="487" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">RM 安全分</text>
+<rect x="64" y="567" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="567" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="88" y="609" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">旧 DPO 复用</text>
+<text x="88" y="647" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">历史标注不作废</text>
+<rect x="458" y="567" width="370" height="135" rx="16" fill="#EDF3FA" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="458" y="567" width="5" height="135" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="482" y="609" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">OPSD 提示</text>
+<text x="482" y="647" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">原页：完全不训练</text>
+<polyline points="838,250 860,250 860,702 838,702" fill="none" stroke="#087F82" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="860,476 1090,476" fill="none" stroke="#087F82" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1090,476 1077.0,470.0 1077.0,482.0" fill="#087F82" stroke="none"/>
+<text x="972" y="430" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="600" text-anchor="middle">一轮 MOPD</text>
+<text x="972" y="460" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">逐 token 打分</text>
+<rect x="1110" y="247" width="426" height="455" rx="16" fill="#E9F5F3" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="1110" y="247" width="5" height="455" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="1134" y="289" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="600" text-anchor="start">唯一线上学生模型</text>
+<text x="1134" y="327" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">SFT → 一轮 OPD</text>
+<text x="1134" y="361" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400" text-anchor="start"></text>
+<text x="1134" y="395" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">SFT 可随时重训</text>
+<text x="1134" y="429" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">学生始终自行采样</text>
+<text x="1134" y="463" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">保持 on-policy 数据链路</text>
+<rect x="64" y="755" width="1472" height="112" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="755" width="5" height="112" rx="2" fill="#7356A4" stroke="none" stroke-width="1.4"/>
+<text x="88" y="797" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="600" text-anchor="start">扩展方式</text>
+<text x="88" y="835" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">新增角色对应新增教师；每个教师负责一个角色或一种能力。</text>
+</svg>

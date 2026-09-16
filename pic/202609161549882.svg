@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="715" viewBox="0 180 1600 715"><title>游戏开发与 QA 反馈闭环</title>
+<rect x="0" y="0" width="1600" height="1000" rx="0" fill="#F7F9FA" stroke="none" stroke-width="1.4"/>
+<rect x="64" y="260" width="380" height="140" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="260" width="5" height="140" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="88" y="302" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600" text-anchor="start">Coding Agent</text>
+<text x="88" y="340" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">开发与修改</text>
+<rect x="610" y="260" width="380" height="140" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="610" y="260" width="5" height="140" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="634" y="302" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600" text-anchor="start">Game</text>
+<text x="634" y="340" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">可运行的游戏</text>
+<rect x="1156" y="260" width="380" height="140" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="1156" y="260" width="5" height="140" rx="2" fill="#7356A4" stroke="none" stroke-width="1.4"/>
+<text x="1180" y="302" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600" text-anchor="start">QA</text>
+<text x="1180" y="340" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">测试与验收</text>
+<polyline points="444,330 590,330" fill="none" stroke="#3466A0" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="590,330 577.0,324.0 577.0,336.0" fill="#3466A0" stroke="none"/>
+<polyline points="990,330 1136,330" fill="none" stroke="#087F82" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="1136,330 1123.0,324.0 1123.0,336.0" fill="#087F82" stroke="none"/>
+<polyline points="1346,260 1346,213 254,213 254,245" fill="none" stroke="#7356A4" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="254,245 260.0,232.0 248.0,232.0" fill="#7356A4" stroke="none"/>
+<text x="800" y="205" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">Reward / QA 反馈</text>
+<rect x="64" y="480" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="480" width="5" height="170" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="88" y="522" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">前期策划与原型</text>
+<text x="88" y="560" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">玩法、目标用户、数值框架</text>
+<rect x="438" y="480" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="438" y="480" width="5" height="170" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="462" y="522" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">美术概念与资产</text>
+<text x="462" y="560" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">建模、材质、动画、特效、音频</text>
+<rect x="812" y="480" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="812" y="480" width="5" height="170" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="836" y="522" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">关卡与内容生产</text>
+<text x="836" y="560" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">场景、任务、剧情、难度与引导</text>
+<rect x="1186" y="480" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="1186" y="480" width="5" height="170" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="1210" y="522" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">客户端与引擎</text>
+<text x="1210" y="560" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">控制、战斗、UI、渲染、物理</text>
+<rect x="64" y="675" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="64" y="675" width="5" height="170" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="88" y="717" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">服务端与在线系统</text>
+<text x="88" y="755" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">同步、账号、匹配、经济系统</text>
+<rect x="438" y="675" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="438" y="675" width="5" height="170" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="462" y="717" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">工具链与生产管线</text>
+<text x="462" y="755" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">构建、版本、编辑器、测试工具</text>
+<rect x="812" y="675" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="812" y="675" width="5" height="170" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="836" y="717" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">集成、构建与测试</text>
+<text x="836" y="755" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">功能、兼容、性能、体验</text>
+<rect x="1186" y="675" width="350" height="170" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="1186" y="675" width="5" height="170" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="1210" y="717" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600" text-anchor="start">上线与持续运营</text>
+<text x="1210" y="755" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">监控、玩家行为、内容与数值</text>
+</svg>

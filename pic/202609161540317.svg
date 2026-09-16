@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="715" viewBox="0 180 1600 715"><title>Hybrid Reward System：奖励分层</title>
+<rect x="0" y="0" width="1600" height="1000" rx="0" fill="#F7F9FA" stroke="none" stroke-width="1.4"/>
+<polygon points="290,255 570,255 655,420 205,420" fill="#F2EDF8" stroke="none"/>
+<polygon points="205,443 655,443 745,613 115,613" fill="#EDF3FA" stroke="none"/>
+<polygon points="115,636 745,636 835,816 25,816" fill="#E9F5F3" stroke="none"/>
+<text x="430" y="320" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="600" text-anchor="middle">优中选优</text>
+<text x="430" y="375" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600" text-anchor="middle">RM</text>
+<text x="430" y="510" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="600" text-anchor="middle">明确对错</text>
+<text x="430" y="565" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600" text-anchor="middle">GRM</text>
+<text x="430" y="708" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="35" font-weight="600" text-anchor="middle">守住底线</text>
+<text x="430" y="766" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600" text-anchor="middle">Rule</text>
+<rect x="925" y="255" width="611" height="165" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="925" y="255" width="5" height="165" rx="2" fill="#7356A4" stroke="none" stroke-width="1.4"/>
+<text x="949" y="297" fill="#7356A4" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="600" text-anchor="start">偏好层</text>
+<text x="949" y="335" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">在合适的候选中进一步选择。</text>
+<polyline points="850,335 905,335" fill="none" stroke="#7356A4" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="905,335 892.0,329.0 892.0,341.0" fill="#7356A4" stroke="none"/>
+<rect x="925" y="443" width="611" height="165" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="925" y="443" width="5" height="165" rx="2" fill="#3466A0" stroke="none" stroke-width="1.4"/>
+<text x="949" y="485" fill="#3466A0" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="600" text-anchor="start">判断层</text>
+<text x="949" y="523" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">对可判定的行为提供评价。</text>
+<polyline points="850,523 905,523" fill="none" stroke="#3466A0" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="905,523 892.0,517.0 892.0,529.0" fill="#3466A0" stroke="none"/>
+<rect x="925" y="636" width="611" height="165" rx="16" fill="#FFFFFF" stroke="#C8D5DC" stroke-width="1.4"/>
+<rect x="925" y="636" width="5" height="165" rx="2" fill="#087F82" stroke="none" stroke-width="1.4"/>
+<text x="949" y="678" fill="#087F82" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="600" text-anchor="start">底线层</text>
+<text x="949" y="716" fill="#607584" font-family="Heiti SC, PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">为生成与行为设置基本边界。</text>
+<polyline points="850,716 905,716" fill="none" stroke="#087F82" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="905,716 892.0,710.0 892.0,722.0" fill="#087F82" stroke="none"/>
+</svg>
